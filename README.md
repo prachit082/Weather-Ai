@@ -31,6 +31,4 @@ You can deploy your own hosted version of this plugin to Vercel with one-click:
 
 Once you're done, don't forget to change all instances of `weatherai.vercel.app` in the codebase to your app's URL:
 
-![CleanShot 2023-04-14 at 17 23 32](https://user-images.githubusercontent.com/28986134/232164728-12a5d659-24a6-4528-babc-099dde5fdd26.png)
-
-
+![Screenshot 2024-05-20 193601](https://github.com/prachit082/Weather-Ai/assets/92202695/39b53409-042b-46ac-a896-80aa311eb57b)
